@@ -1,0 +1,11 @@
+number
+-- infinity
+-- NaN
+_________________________________
+string
+boolean
+null
+undefined
+object
+--array
+funtion
