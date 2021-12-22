@@ -1,2 +1,4 @@
 # CursoJS
-Curso de javaScript 
+
+
+## Evolução do curso de javaScript cada arquivo que estou estudando!
